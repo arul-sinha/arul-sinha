@@ -1,0 +1,3 @@
+<h1>About</h1>Hi,<br>
+My name is <b>Arul Sinha</b>. I happen to be good at <b>web development</b>.<br>Other than that, I am also ummm lets say a beginner at <b>ethical hacking</b> and <b>Software Development</b><br><hr><br>
+will write more info here later......
